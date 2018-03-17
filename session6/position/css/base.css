@@ -1,0 +1,36 @@
+body{
+  background-image: url(../banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.wrapper{
+  position: relative;
+}
+
+.content1{
+  height: 100px;
+  background: #F66;
+  opacity: .5;
+}
+
+.content2{
+  height: 100px;
+  background: #0f6;
+  opacity: .5;
+}
+
+.demo{
+  position: absolute;
+  top: 25%;
+
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 100px;
+  height: 100px;
+  background: #000;
+  /* z-index: 99; */
+}
