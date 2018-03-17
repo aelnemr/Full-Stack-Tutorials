@@ -1,0 +1,14 @@
+body{
+  background: #eee;
+}
+.container, .h-100{
+  min-height: 600px;
+}
+
+.logo{
+  width: 30%;
+}
+
+.row{
+  margin: 0;
+}

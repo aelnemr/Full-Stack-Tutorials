@@ -1,0 +1,18 @@
+.img-1{
+  width: 50px;
+}
+
+.content{
+  background: #333;
+  width: 100%;
+  height: 250px;
+}
+
+.bg-red{
+  background: red;
+}
+
+.bg-blue{
+
+  background: blue;
+}
