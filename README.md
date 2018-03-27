@@ -19,5 +19,7 @@ PHP Beginers Tutorial
 - PHP Arrays,
 - PHP Forms,
 - PHP Validations, and
-- PHP $_GET,$_POST Arrays.
+- PHP $_GET,$_POST Arrays,
+- PHP Functions,
+- PHP include & require.
 
