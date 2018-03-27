@@ -3,7 +3,11 @@
 	define('PATTERN_NAME', "/^[A-Z]{1}[a-z]{2,8} [A-Z]{1}[a-z]{2,8}$/");
 	define('PATTERN_PHONE', "/^01[0-25][0-9]{8}$/");
 	
-function valid_name($name){
+function valid_name($name, $m){
+
+	$name = "Ali";
+
+	$m = [1,2,3];
 
 	if (preg_match(PATTERN_NAME, $name)) {
 		return true;

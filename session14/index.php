@@ -1,11 +1,13 @@
 <?php
 require_once 'validations.php';
-
-if (valid_name("Ahmed Elnemr")) {
+$name = "Ahmed Elnemr";
+if (valid_name($name)) {
 	echo "Valid Name";
 } else {
 	echo "Invalid Name";
 }
+
+echo $m;
 
 
 if (valid_name("Ahmed Ali")) {
