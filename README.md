@@ -1,6 +1,6 @@
 # Full-Stack-Tutorials
 
-PHP Beginers Tutorial
+Front-End and Back-End Development Tutorials by Ahmed El-Nemr
 
 ## Getting Started
 
