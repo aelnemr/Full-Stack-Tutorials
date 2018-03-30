@@ -18,8 +18,10 @@ PHP Beginers Tutorial
 - PHP Loop Types,
 - PHP Arrays,
 - PHP Forms,
-- PHP Validations, and
+- PHP Validations, 
 - PHP $_GET,$_POST Arrays,
 - PHP Functions,
-- PHP include & require.
+- PHP include & require,
+- Databse Management Systems,and
+- Normalization in database.
 
