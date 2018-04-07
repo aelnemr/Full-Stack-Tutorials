@@ -76,7 +76,10 @@ function updateUser($id, $full_name, $username, $password)
 {
 	global $dbh;
 
-	$sql = "UPDATE `users` SET username='$username', full_name='$full_name', password='$password'  WHERE id=$id";
+	$sql = "UPDATE `users` SET username='$username', 
+					full_name='$full_name', 
+					password='$password'  
+				WHERE id=$id";
 
 	$stm = $dbh->prepare($sql);
 
