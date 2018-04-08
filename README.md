@@ -22,6 +22,8 @@ Front-End and Back-End Development Tutorials by Ahmed El-Nemr
 - PHP $_GET,$_POST Arrays,
 - PHP Functions,
 - PHP include & require,
-- Databse Management Systems,and
-- Normalization in database.
-
+- Databse Management Systems,
+- Normalization in database,
+- SQL & MySQL,
+- PHP PDO Class,and
+- PHP Design Pattern.
