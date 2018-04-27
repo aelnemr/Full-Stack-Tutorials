@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title> JS </title>
+    </head>
+    <body>
+
+        <div>
+            <input type="number" id="degree">
+            <button id="get-result" onclick="getResult();">Result</button>
+        </div>
+        <div id="result">
+
+        </div>
+
+        <script>
+
+            function getResult() {
+                var degree = document.getElementById('degree').value , result;
+
+                if (degree > 90){
+                    result = "A+";
+                } else if (degree >= 80) {
+                    result = "B";
+                } else  if (degree >= 70) {
+                    result = "c";
+                }else  if (degree >= 60) {
+                    result = "d";
+                }else  if (degree >= 50) {
+                    result = "f";
+                } else {
+                    result = "z";
+                }
+                document.getElementById('result').innerHTML = result;
+            }
+
+        </script>
+    </body>
+</html>
