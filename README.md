@@ -25,5 +25,11 @@ Front-End and Back-End Development Tutorials by Ahmed El-Nemr
 - Databse Management Systems,
 - Normalization in database,
 - SQL & MySQL,
-- PHP PDO Class,and
-- PHP Design Pattern.
+- PHP PDO Class,
+- PHP Design Pattern,
+- CMS Project using pure PHP Design pattern (LMS),
+- PHP MVC,
+- Laravel PHP Freamework,and
+- CMS Project using Laravel (Portofile).
+
+
